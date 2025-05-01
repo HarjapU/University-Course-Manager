@@ -14,3 +14,5 @@ Some things to note when using this program:
 - Students can only enroll in courses or remove courses using the Course ID, so they will need to first check the course ID by displaying all the courses and seeing the course ID from there. 
 - Course ID is also needed for Admin to delete courses too.
 - Searching for courses are also based on Course ID
+
+This project is licensed under the [MIT License](LICENSE).
