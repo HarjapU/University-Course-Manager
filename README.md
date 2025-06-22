@@ -1,4 +1,4 @@
-# University-Course-Manager
+# university-course-manager
 Author: Harjap Uppal
 
 MUST be ran from "CourseManager.java"
